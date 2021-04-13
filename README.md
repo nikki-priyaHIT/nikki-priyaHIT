@@ -8,7 +8,6 @@
 **NikkiPriyaProfile** is a ✨ _special_ ✨ repository appears on your GitHub profile.
 -->
 <h1 align="left" width="100%">
-  <a href="https://github.com/EddieHubCommunit"> 
 
 ![JXA0](https://user-images.githubusercontent.com/66662965/114603517-72903880-9cb5-11eb-9e68-0ad798d30259.gif)
 
