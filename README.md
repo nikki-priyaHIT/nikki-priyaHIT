@@ -1,13 +1,13 @@
 # NikkiPriyaProfile
-<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="Left"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 
-IT Student at Heritage Institute of technology, Kolkata
+𝕀𝕋 𝕊𝕥𝕦𝕕𝕖𝕟𝕥 𝕒𝕥 ℍ𝕖𝕣𝕚𝕥𝕒𝕘𝕖 𝕀𝕟𝕤𝕥𝕚𝕥𝕦𝕥𝕖 𝕠𝕗 𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕪, 𝕂𝕠𝕝𝕜𝕒𝕥𝕒
 
 <!--
 **NikkiPriyaProfile** is a ✨ _special_ ✨ repository appears on your GitHub profile.
 -->
-<h1 align="center" width="100%">
+<h1 align="left" width="100%">
   <a href="https://github.com/EddieHubCommunit"> 
 
 ![JXA0](https://user-images.githubusercontent.com/66662965/114603517-72903880-9cb5-11eb-9e68-0ad798d30259.gif)
