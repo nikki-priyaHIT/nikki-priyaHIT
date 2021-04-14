@@ -49,9 +49,10 @@
 </p>
 
 ![hit](https://user-images.githubusercontent.com/66662965/114664691-b026ad00-9d19-11eb-865b-5d916655643e.jpeg)
-
 <p align="center" width="400px"> <font size="5"> <b> HITK Tech Community 👩🏻‍💻👨🏻‍💻 </b></font></p> <br />
 Being from tier-2 and tier-3 colleges, you often face the problem of knowledge gap in our college days. But once you begin walking in the path of tech, you discover a place where people are just like you. 😇✨ I am a part of this group of HITK where students trying to fill the knowledge gap and help to find our place of discovery by sharing the opportunities and resources at the right time!⏱️<br />
+
+
 
 
 
