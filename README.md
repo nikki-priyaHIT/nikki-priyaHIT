@@ -9,7 +9,8 @@
 -->
 <h1 align="left" width="100%">
 
-![JXA0](https://user-images.githubusercontent.com/66662965/114603517-72903880-9cb5-11eb-9e68-0ad798d30259.gif)
+![JXA0](https://user-images.githubusercontent.com/66662965/114603517-72903880-9cb5-11eb-9e68-0ad798d30259.gif) ![HITK](https://user-images.githubusercontent.com/66662965/114664435-51f9ca00-9d19-11eb-99b5-5030db2e9b28.png)
+
 
 
 </h1>
@@ -47,7 +48,9 @@
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=NikkiPriya&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 
-![HITK](https://user-images.githubusercontent.com/66662965/114664035-c7b16600-9d18-11eb-804f-ef311de7153c.png) ![hit](https://user-images.githubusercontent.com/66662965/114664289-1fe86800-9d19-11eb-9465-b74c65eb6214.jpeg)
+![hit](https://user-images.githubusercontent.com/66662965/114664691-b026ad00-9d19-11eb-865b-5d916655643e.jpeg)
+
+        
 
 
 
