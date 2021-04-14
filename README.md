@@ -47,6 +47,11 @@
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=NikkiPriya&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 
+![HITK](https://user-images.githubusercontent.com/66662965/114664035-c7b16600-9d18-11eb-804f-ef311de7153c.png) ![hit](https://user-images.githubusercontent.com/66662965/114664289-1fe86800-9d19-11eb-9465-b74c65eb6214.jpeg)
+
+
+
+
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Skill](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
