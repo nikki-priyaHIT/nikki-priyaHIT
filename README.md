@@ -9,7 +9,8 @@
 -->
 <h1 align="left" width="100%">
 
-![JXA0](https://user-images.githubusercontent.com/66662965/114603517-72903880-9cb5-11eb-9e68-0ad798d30259.gif) ![HITK](https://user-images.githubusercontent.com/66662965/114664435-51f9ca00-9d19-11eb-99b5-5030db2e9b28.png)
+![JXA0](https://user-images.githubusercontent.com/66662965/114603517-72903880-9cb5-11eb-9e68-0ad798d30259.gif) ![HITK](https://user-images.githubusercontent.com/66662965/114664435-51f9ca00-9d19-11eb-99b5-5030db2e9b28.png) ![coffe](https://user-images.githubusercontent.com/66662965/118107593-9356c580-b3fc-11eb-89b2-906771c72c08.png)
+
 
 
 
@@ -31,8 +32,8 @@
       </table>
     </td>
     <td align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=NikkiPriya&show_icons=true&theme=merko&hide_border=true" />
-      <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=NikkiPriya&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nikki-priyaHIT&show_icons=true&theme=merko&hide_border=true" />
+      <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=nikki-priyaHIT&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -45,7 +46,7 @@
 ---
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=NikkiPriya&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikki-priyaHIT&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 
 ![hit](https://user-images.githubusercontent.com/66662965/114664691-b026ad00-9d19-11eb-865b-5d916655643e.jpeg)
@@ -73,7 +74,7 @@ Being from tier-2 and tier-3 colleges, you often face the problem of knowledge g
 
 [![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/20b4219a/)
 [![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NikkiPriya8)
-[![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NikkiPriya)
+[![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikki-priyaHIT)
 
 
 
