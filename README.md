@@ -1,4 +1,5 @@
-# NikkiPriyaProfile
+# My Profile
+
 <p align="Left"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 
@@ -9,7 +10,8 @@
 -->
 <h1 align="left" width="100%">
 
-![JXA0](https://user-images.githubusercontent.com/66662965/114603517-72903880-9cb5-11eb-9e68-0ad798d30259.gif) ![HITK](https://user-images.githubusercontent.com/66662965/114664435-51f9ca00-9d19-11eb-99b5-5030db2e9b28.png) ![coffe](https://user-images.githubusercontent.com/66662965/118107593-9356c580-b3fc-11eb-89b2-906771c72c08.png)
+![JXA0](https://user-images.githubusercontent.com/66662965/114603517-72903880-9cb5-11eb-9e68-0ad798d30259.gif) ![HITK](https://user-images.githubusercontent.com/66662965/114664435-51f9ca00-9d19-11eb-99b5-5030db2e9b28.png) ![coffe](https://user-images.githubusercontent.com/66662965/118107593-9356c580-b3fc-11eb-89b2-906771c72c08.png) ![desktop](https://user-images.githubusercontent.com/66662965/118108138-41fb0600-b3fd-11eb-95c7-44690bd502a2.png)
+
 
 
 
