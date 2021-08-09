@@ -10,12 +10,7 @@
 -->
 <h1 align="left" width="100%">
 
-![JXA0](https://user-images.githubusercontent.com/66662965/114603517-72903880-9cb5-11eb-9e68-0ad798d30259.gif) ![HITK](https://user-images.githubusercontent.com/66662965/114664435-51f9ca00-9d19-11eb-99b5-5030db2e9b28.png) ![coffe](https://user-images.githubusercontent.com/66662965/118107593-9356c580-b3fc-11eb-89b2-906771c72c08.png) ![desktop](https://user-images.githubusercontent.com/66662965/118108138-41fb0600-b3fd-11eb-95c7-44690bd502a2.png)
-
-
-
-
-
+![JXA0](https://user-images.githubusercontent.com/66662965/114603517-72903880-9cb5-11eb-9e68-0ad798d30259.gif) ![HITK](https://user-images.githubusercontent.com/66662965/114664435-51f9ca00-9d19-11eb-99b5-5030db2e9b28.png) 
 </h1>
 </h1>
 
@@ -50,25 +45,12 @@
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikki-priyaHIT&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
-
-![hit](https://user-images.githubusercontent.com/66662965/114664691-b026ad00-9d19-11eb-865b-5d916655643e.jpeg)
 <p align="center" width="400px"> <font size="5"> <b> HITK Tech Community 👩🏻‍💻👨🏻‍💻 </b></font></p> <br />
 Being from tier-2 and tier-3 colleges, you often face the problem of knowledge gap in our college days. But once you begin walking in the path of tech, you discover a place where people are just like you. 😇✨ I am a part of this group of HITK where students trying to fill the knowledge gap and help to find our place of discovery by sharing the opportunities and resources at the right time!⏱️<br />
-
-
-
-
-
 
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Skill](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Skill](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Skill](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Skill](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Skill](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Skill](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Skill](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Skill](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
